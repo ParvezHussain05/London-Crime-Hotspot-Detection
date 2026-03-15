@@ -61,7 +61,7 @@ This structure makes time series analysis and aggregation possible.
 
 Total crime across London was aggregated by month to analyse overall crime trends.
 
-![Crime Trend](images/Total_Crime_Over_Time.png) 
+![Crime Trend](main/Total_Crime_Over_Time.png) 
 
 ---
 
@@ -69,7 +69,7 @@ Total crime across London was aggregated by month to analyse overall crime trend
 
 Crime counts were grouped by major category to identify the most common types of crime.
 
-![Crime Category](images/Crime_by_Category.png)
+![Crime Category](main/Crime_by_Category.png)
 
 ---
 
@@ -77,7 +77,7 @@ Crime counts were grouped by major category to identify the most common types of
 
 Crime totals were aggregated by borough to identify areas with the highest levels of crime.
 
-![Crime Borough](images/Crime_Hotspots_by_Borough.png)
+![Crime Borough](main/Crime_Hotspots_by_Borough.png)
 
 ---
 
